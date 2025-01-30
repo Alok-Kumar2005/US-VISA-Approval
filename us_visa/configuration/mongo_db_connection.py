@@ -10,7 +10,7 @@ import certifi
 
 ca = certifi.where()
 
-MONGODB_URL = "mongodb+srv://ay747283:qffH62WF1Z5kUr0g@cluster0.zycsy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
 
 class MongoDBClient:
     """
